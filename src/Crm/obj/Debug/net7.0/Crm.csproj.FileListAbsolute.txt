@@ -1,0 +1,15 @@
+/Users/faridunwa/Documents/crm-practice/src/Crm/bin/Debug/net7.0/Crm
+/Users/faridunwa/Documents/crm-practice/src/Crm/bin/Debug/net7.0/Crm.deps.json
+/Users/faridunwa/Documents/crm-practice/src/Crm/bin/Debug/net7.0/Crm.runtimeconfig.json
+/Users/faridunwa/Documents/crm-practice/src/Crm/bin/Debug/net7.0/Crm.dll
+/Users/faridunwa/Documents/crm-practice/src/Crm/bin/Debug/net7.0/Crm.pdb
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/Crm.csproj.AssemblyReference.cache
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/Crm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/Crm.AssemblyInfoInputs.cache
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/Crm.AssemblyInfo.cs
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/Crm.csproj.CoreCompileInputs.cache
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/Crm.dll
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/refint/Crm.dll
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/Crm.pdb
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/Crm.genruntimeconfig.cache
+/Users/faridunwa/Documents/crm-practice/src/Crm/obj/Debug/net7.0/ref/Crm.dll
