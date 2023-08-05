@@ -1,21 +1,7 @@
 namespace Crm.DataAccess;
 
-public class ClientBase
-{
-    protected internal void Say()
-    {
-
-    }
-}
-
 public sealed class Client
 {
-    public Client()
-    {
-        ClientBase clientBase = new();
-        clientBase.Say();
-    }
-
     private string? _firstName;
     public long Id { get; set; }
 
