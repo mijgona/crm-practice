@@ -1,4 +1,4 @@
-﻿using Crm.Entities;
+﻿using Crm.DataAccess;
 using Crm.Services;
 
 ClientService clientService = new();

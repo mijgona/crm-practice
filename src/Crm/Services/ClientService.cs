@@ -1,8 +1,8 @@
-using Crm.Entities;
+using Crm.DataAccess;
 
 namespace Crm.Services;
 
-public sealed class ClientService
+public sealed class ClientService : ClientBase
 {
     public Client CreateClient(
         string firstName,

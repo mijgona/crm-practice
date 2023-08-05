@@ -1,4 +1,4 @@
-namespace Crm.Entities;
+namespace Crm.DataAccess;
 
 public enum Gender
 {
