@@ -1,7 +1,7 @@
-﻿using Crm.Entities;
+﻿using Crm.DataAccess;
 using Crm.Services;
 
-ClientService clientService = new();
+IClientService clientService = new ClientService();
 CreateClient();
 
 void CreateClient()

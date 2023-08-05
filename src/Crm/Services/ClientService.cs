@@ -1,9 +1,16 @@
-using Crm.Entities;
+using Crm.DataAccess;
 
 namespace Crm.Services;
 
-public sealed class ClientService
+public sealed class ClientService : IClientService
 {
+    private readonly List<Client> _clients;
+
+    public ClientService()
+    {
+        _clients = new();
+    }
+
     public Client CreateClient(
         string firstName,
         string lastName,
@@ -13,8 +20,7 @@ public sealed class ClientService
         Gender gender
     )
     {
-        // TODO: Validate input parameters.
-        return new()
+        Client newClient = new()
         {
             FirstName = firstName,
             LastName = lastName,
@@ -23,5 +29,26 @@ public sealed class ClientService
             PassportNumber = passportNumber,
             Gender = gender
         };
+
+        _clients.Add(newClient);
+        
+        return newClient;
+    }
+
+    public Client? GetClient(string firstName, string lastName)
+    {
+        if (firstName is not { Length: > 0 })
+            throw new ArgumentNullException(nameof(firstName));
+
+        if (lastName is not { Length: > 0 })
+            throw new ArgumentNullException(nameof(lastName));
+
+        foreach(Client client in _clients)
+        {
+            if (client.FirstName.Equals(firstName) && client.LastName.Equals(lastName))
+                return client;
+        }
+
+        return null;
     }
 }
