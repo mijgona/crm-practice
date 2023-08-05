@@ -2,7 +2,7 @@ using Crm.DataAccess;
 
 namespace Crm.Services;
 
-public sealed class ClientService
+public sealed class ClientService : IClientService
 {
     private readonly List<Client> _clients;
 
