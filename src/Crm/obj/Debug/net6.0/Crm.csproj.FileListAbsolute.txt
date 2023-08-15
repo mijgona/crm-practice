@@ -16,3 +16,5 @@
 /Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/obj/Debug/net6.0/Crm.pdb
 /Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/obj/Debug/net6.0/Crm.genruntimeconfig.cache
 /Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/obj/Debug/net6.0/ref/Crm.dll
+/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/bin/Debug/net6.0/Crm.BusinessLogic.dll
+/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/bin/Debug/net6.0/Crm.BusinessLogic.pdb

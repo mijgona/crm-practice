@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dl0VHEXjtIoGQvbMODu+16csQOSUteDU1s+BivxjP/LwRwM5eXkFfN8P3MHDagucZlkeV77cJGTu5Zegun+2eg==",
+  "success": true,
+  "projectFilePath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/Crm.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "/Users/faridunberdiev/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/faridunberdiev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

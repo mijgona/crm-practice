@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Crm.DataAccess\Crm.DataAccess.csproj" />
+    <ProjectReference Include="..\Crm.BusinessLogic\Crm.BusinessLogic.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

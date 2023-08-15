@@ -1,6 +1,6 @@
 using Crm.DataAccess;
 
-namespace Crm.Services;
+namespace Crm.BusinessLogic;
 
 public sealed class ClientService : IClientService
 {
@@ -42,7 +42,7 @@ public sealed class ClientService : IClientService
 
         if (lastName is not { Length: > 0 })
             throw new ArgumentNullException(nameof(lastName));
-
+            
         foreach(Client client in _clients)
         {
             if (client.FirstName.Equals(firstName) && client.LastName.Equals(lastName))

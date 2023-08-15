@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Crm.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Crm.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Crm.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Crm.BusinessLogic.dll": {}
+        }
+      },
       "Crm.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "Crm.BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../Crm.BusinessLogic/Crm.BusinessLogic.csproj",
+      "msbuildProject": "../Crm.BusinessLogic/Crm.BusinessLogic.csproj"
+    },
     "Crm.DataAccess/1.0.0": {
       "type": "project",
       "path": "../Crm.DataAccess/Crm.DataAccess.csproj",
@@ -23,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Crm.BusinessLogic >= 1.0.0",
       "Crm.DataAccess >= 1.0.0"
     ]
   },
@@ -51,6 +70,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/Crm.BusinessLogic.csproj": {
+              "projectPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/Crm.BusinessLogic.csproj"
+            },
             "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj": {
               "projectPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj"
             }

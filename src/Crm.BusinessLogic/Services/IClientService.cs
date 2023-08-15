@@ -1,6 +1,6 @@
 using Crm.DataAccess;
 
-namespace Crm.Services;
+namespace Crm.BusinessLogic;
 
 public interface IClientService
 {
