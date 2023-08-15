@@ -35,6 +35,20 @@ public sealed class ClientService : IClientService
         return newClient;
     }
 
+    public bool RemoveClient(string firstName, string lastName)
+    {
+        foreach(Client item in _clients)
+        {
+            if (item.FirstName.Equals(firstName) && item.LastName.Equals(lastName))
+            {
+                _clients.Remove(item);
+                return true;
+            }
+        }
+        
+        return false;
+    }
+
     public Client? GetClient(string firstName, string lastName)
     {
         if (firstName is not { Length: > 0 })

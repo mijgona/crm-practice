@@ -3,7 +3,12 @@ using Crm.BusinessLogic;
 using System.Collections;
 
 IClientService clientService = new ClientService();
-CreateClient();
+
+clientService.CreateClient("Faridun", "Berdiev", "", 10, "", Gender.Female);
+bool result = clientService.RemoveClient("Faridun", "Berdiev");
+Console.WriteLine(result);
+
+// CreateClient();
 
 void CreateClient()
 {

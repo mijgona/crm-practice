@@ -14,4 +14,5 @@ public interface IClientService
     );
 
     public Client? GetClient(string firstName, string lastName);
+    public bool RemoveClient(string firstName, string lastName);
 }
