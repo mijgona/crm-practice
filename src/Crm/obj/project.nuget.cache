@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rFX2pVmJY/OwFoYig1WNMhE+Bv5AVslhJMwUc6+00DNdh6bdZOp3ZnAE0wr70Uvwozfjk7UDoSfIyAJ1Dzqm2Q==",
+  "dgSpecHash": "uJq2luKZoIXBOgtm+lh6/w/d/WoSSgQHz7C1mOx5agrVOzGBD6o4G+uidZnNKqZ5febAKKic+UAEk0lyANf6Cw==",
   "success": true,
-  "projectFilePath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/Crm.csproj",
-  "expectedPackageFiles": [
-    "/Users/faridunberdiev/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/faridunberdiev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/faridunberdiev/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.11/microsoft.netcore.app.host.osx-arm64.6.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\C#\\crm-practice\\src\\Crm\\Crm.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

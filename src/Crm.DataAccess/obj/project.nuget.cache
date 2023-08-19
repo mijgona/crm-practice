@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cL24WOXfI0OvN4DKW7vuYLlj0DvyYPcaTssZSZxJnWyjbCra42wd7RVj4sLS3Ghzk92PmHRG8sgXwGqEr96ayQ==",
+  "dgSpecHash": "OgY4YvXaRjmJ7XE7dXZ4ETBfC6lSydCFXmd5Xnhjxzue1HaRP+4dD3ZxDxX9KHkHs3wIr6zWHx1kBKhyYiGfyA==",
   "success": true,
-  "projectFilePath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj",
-  "expectedPackageFiles": [
-    "/Users/faridunberdiev/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/faridunberdiev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\C#\\crm-practice\\src\\Crm.DataAccess\\Crm.DataAccess.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

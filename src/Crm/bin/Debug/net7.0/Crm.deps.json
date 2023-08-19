@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "Crm/1.0.0": {
+        "dependencies": {
+          "Crm.BusinessLogic": "1.0.0",
+          "Crm.DataAccess": "1.0.0"
+        },
         "runtime": {
           "Crm.dll": {}
+        }
+      },
+      "Crm.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "Crm.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "Crm.BusinessLogic.dll": {}
+        }
+      },
+      "Crm.DataAccess/1.0.0": {
+        "runtime": {
+          "Crm.DataAccess.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Crm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Crm.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Crm.DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
