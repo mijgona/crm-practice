@@ -1,33 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/Crm.csproj": {}
+    "D:\\C#\\crm-practice\\src\\Crm\\Crm.csproj": {}
   },
   "projects": {
-    "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/Crm.BusinessLogic.csproj": {
+    "D:\\C#\\crm-practice\\src\\Crm.BusinessLogic\\Crm.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/Crm.BusinessLogic.csproj",
+        "projectUniqueName": "D:\\C#\\crm-practice\\src\\Crm.BusinessLogic\\Crm.BusinessLogic.csproj",
         "projectName": "Crm.BusinessLogic",
-        "projectPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/Crm.BusinessLogic.csproj",
-        "packagesPath": "/Users/faridunberdiev/.nuget/packages/",
-        "outputPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/obj/",
+        "projectPath": "D:\\C#\\crm-practice\\src\\Crm.BusinessLogic\\Crm.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\crm-practice\\src\\Crm.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/faridunberdiev/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj": {
-                "projectPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj"
+              "D:\\C#\\crm-practice\\src\\Crm.DataAccess\\Crm.DataAccess.csproj": {
+                "projectPath": "D:\\C#\\crm-practice\\src\\Crm.DataAccess\\Crm.DataAccess.csproj"
               }
             }
           }
@@ -39,8 +39,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -52,46 +52,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj": {
+    "D:\\C#\\crm-practice\\src\\Crm.DataAccess\\Crm.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj",
+        "projectUniqueName": "D:\\C#\\crm-practice\\src\\Crm.DataAccess\\Crm.DataAccess.csproj",
         "projectName": "Crm.DataAccess",
-        "projectPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj",
-        "packagesPath": "/Users/faridunberdiev/.nuget/packages/",
-        "outputPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/obj/",
+        "projectPath": "D:\\C#\\crm-practice\\src\\Crm.DataAccess\\Crm.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\crm-practice\\src\\Crm.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/faridunberdiev/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -102,8 +92,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -115,52 +105,42 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/Crm.csproj": {
+    "D:\\C#\\crm-practice\\src\\Crm\\Crm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/Crm.csproj",
+        "projectUniqueName": "D:\\C#\\crm-practice\\src\\Crm\\Crm.csproj",
         "projectName": "Crm",
-        "projectPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/Crm.csproj",
-        "packagesPath": "/Users/faridunberdiev/.nuget/packages/",
-        "outputPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm/obj/",
+        "projectPath": "D:\\C#\\crm-practice\\src\\Crm\\Crm.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\crm-practice\\src\\Crm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/faridunberdiev/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/Crm.BusinessLogic.csproj": {
-                "projectPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/Crm.BusinessLogic.csproj"
+              "D:\\C#\\crm-practice\\src\\Crm.BusinessLogic\\Crm.BusinessLogic.csproj": {
+                "projectPath": "D:\\C#\\crm-practice\\src\\Crm.BusinessLogic\\Crm.BusinessLogic.csproj"
               },
-              "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj": {
-                "projectPath": "/Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.DataAccess/Crm.DataAccess.csproj"
+              "D:\\C#\\crm-practice\\src\\Crm.DataAccess\\Crm.DataAccess.csproj": {
+                "projectPath": "D:\\C#\\crm-practice\\src\\Crm.DataAccess\\Crm.DataAccess.csproj"
               }
             }
           }
@@ -172,8 +152,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -185,26 +165,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.osx-arm64",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

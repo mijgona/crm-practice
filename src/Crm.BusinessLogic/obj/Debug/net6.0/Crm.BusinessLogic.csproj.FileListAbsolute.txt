@@ -13,3 +13,18 @@
 /Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/obj/Debug/net6.0/refint/Crm.BusinessLogic.dll
 /Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/obj/Debug/net6.0/Crm.BusinessLogic.pdb
 /Users/faridunberdiev/Documents/NET Academy/Courses/dotNET Express Course/crm-practice/src/Crm.BusinessLogic/obj/Debug/net6.0/ref/Crm.BusinessLogic.dll
+D:\C#\crm-practice\src\Crm.BusinessLogic\bin\Debug\net6.0\Crm.BusinessLogic.deps.json
+D:\C#\crm-practice\src\Crm.BusinessLogic\bin\Debug\net6.0\Crm.BusinessLogic.dll
+D:\C#\crm-practice\src\Crm.BusinessLogic\bin\Debug\net6.0\Crm.BusinessLogic.pdb
+D:\C#\crm-practice\src\Crm.BusinessLogic\bin\Debug\net6.0\Crm.DataAccess.dll
+D:\C#\crm-practice\src\Crm.BusinessLogic\bin\Debug\net6.0\Crm.DataAccess.pdb
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\Crm.BusinessLogic.csproj.AssemblyReference.cache
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\Crm.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\Crm.BusinessLogic.AssemblyInfoInputs.cache
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\Crm.BusinessLogic.AssemblyInfo.cs
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\Crm.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\Crm.BusinessLogic.csproj.CopyComplete
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\Crm.BusinessLogic.dll
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\refint\Crm.BusinessLogic.dll
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\Crm.BusinessLogic.pdb
+D:\C#\crm-practice\src\Crm.BusinessLogic\obj\Debug\net6.0\ref\Crm.BusinessLogic.dll

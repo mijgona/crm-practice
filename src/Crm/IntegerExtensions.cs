@@ -17,4 +17,42 @@ public static class IntegerExtensions
                 return false;
         }
     }
+    
+    public static bool TryParse(this int deliveryTypeIndex, out DeliveryType delivery)
+    {
+        switch(deliveryTypeIndex)
+        {
+            case 0:
+                delivery = DeliveryType.Express;
+                return true;
+            case 1:
+                delivery = DeliveryType.Standard;
+                return true;
+            case 2:
+                delivery = DeliveryType.Free;
+                return true;
+            default:
+                delivery = default;
+                return false;
+        }
+    }
+    
+    public static bool TryParse(this int orderStateIndex, out OrderState order)
+    {
+        switch(orderStateIndex)
+        {
+            case 1:
+                order = OrderState.Approved;
+                return true;
+            case 2:
+                order = OrderState.Cancelled;
+                return true;
+            case 0:
+                order = OrderState.Pending;
+                return true;
+            default:
+                order = default;
+                return false;
+        }
+    }
 }

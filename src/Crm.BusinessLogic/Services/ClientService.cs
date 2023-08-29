@@ -65,4 +65,10 @@ public sealed class ClientService : IClientService
 
         return null;
     }
+    
+      
+    public int GetClientsCount()
+    {
+        return _clients.Count;
+    }
 }
